@@ -105,8 +105,8 @@ For each project, prepare:
 
 * Rehearse answering:
 
-  * “What are you working on right now?”
-  * “What have you done recently?”
+  * "What are you working on right now?"
+  * "What have you done recently?"
 * Always have **at least one current project or task ready**
 
 * Avoid saying "I'm not doing anything at the moment. That is a red flag. Always present yourself as someone who is busy doing something."
