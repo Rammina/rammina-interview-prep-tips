@@ -16,7 +16,9 @@
 **Practice:**
 
 * Say it out loud daily until automatic
-* Practice even when you do not think they will ask: they will
+* Practice even when you do not think they will ask: they most likely will
+
+(No prepared intro will make you seem like a very weak or unprepared candidate)
 
 ---
 
