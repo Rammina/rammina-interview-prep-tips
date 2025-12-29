@@ -31,8 +31,12 @@
   * Common JavaScript interview questions
   * Common React interview questions
   * Common Node.js interview questions
-  * Common MongoDB interview questions
+  * Common MongoDB interview questions (or other relevant DB like MySQL/postgreSQL)
+  * Common Express.js interview questions
   * Common web dev or situational interview questions
+  * Common interview questions especially for tools you added on your resume
+
+ * Note: You should be familiar with concepts in the technologies and skills you put on your resume, and can answer them both verbally and in code.
 
 **How:**
 
